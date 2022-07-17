@@ -1,0 +1,22 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.sun-icon {
+  font-size: 80px;
+  color: orange;
+}
+
+h5 {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
